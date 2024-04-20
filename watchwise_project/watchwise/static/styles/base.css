@@ -1,0 +1,16 @@
+.navbar-brand {
+    display: flex; 
+    align-items: center; 
+    font-weight: bold; 
+    color: #ffffff;
+}
+
+.navbar-brand img {
+    margin-right: 10px; 
+    height: 35px; 
+}
+
+.navbar-brand span {
+    font-size: 1.5rem; 
+    vertical-align: middle; 
+}
